@@ -1,5 +1,5 @@
 {
-  "name": "manutenção",
+  "name": "manutencao",
   "version": "1.0.0",
   "main": "src/app.js",
   "type": "module", 
@@ -14,7 +14,7 @@
   "author": "Alex Andryo",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Alex30pro/Abracadabra"
   },
   "homepage": "",
   "description": "type adicionado para suportar import/export (obrigatório se for usar import from e export default), start adicionado para rodar o servidor e  dependencies adicionado para instalar as dependências com npm install",
